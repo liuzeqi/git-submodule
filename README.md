@@ -1,2 +1,2 @@
-# git-submodule
+# git submodule
 git submodule
